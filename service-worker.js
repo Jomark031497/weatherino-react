@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/weatherino-react/precache-manifest.73e42495803b7d0655b2413e7c65ce23.js"
+  "/weatherino-react/precache-manifest.a59019c893914aff4cca9dd473e5bf6b.js"
 );
 
 self.addEventListener('message', (event) => {
