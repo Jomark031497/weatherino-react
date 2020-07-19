@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "03d760c00b0c2d4e09cdf7f80f6ce732",
+    "revision": "7316c9ed5085caff2e4a942a0ecef9e4",
     "url": "/weatherino-react/index.html"
   },
   {
-    "revision": "c8026318e20345d6c751",
-    "url": "/weatherino-react/static/css/main.2b3c136f.chunk.css"
+    "revision": "b885d968e42b8ca4cdd5",
+    "url": "/weatherino-react/static/css/main.48c078a4.chunk.css"
   },
   {
     "revision": "558d54dfc914cf5e094d",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/weatherino-react/static/js/2.8c4d3189.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c8026318e20345d6c751",
-    "url": "/weatherino-react/static/js/main.5cc9e291.chunk.js"
+    "revision": "b885d968e42b8ca4cdd5",
+    "url": "/weatherino-react/static/js/main.3f001bda.chunk.js"
   },
   {
     "revision": "cf8d8edc397242909c8d",
